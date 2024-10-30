@@ -11,4 +11,19 @@ section {
 }
 .chamada-texto{
     margin-right: 20px;
+    background-color: black;
+}
+section {
+    background: yellowgreen;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
+}
+img {
+    height: 200px;
+}
 }
